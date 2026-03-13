@@ -25,8 +25,8 @@ You can view the live app here:
 
 ## **Documentation**
 
-* [Console Setup](console.md) — Detailed explanation of AWS console steps, challenges, and lessons learned
-* [Command-Line Setup](commands.md) — Terminal commands for testing backend and deploying frontend
+* [Console Setup](/notes/console.md) — Detailed explanation of AWS console steps, challenges, and lessons learned
+* [Command-Line Setup](/notes/commands.md) — Terminal commands for testing backend and deploying frontend
 
 ---
 
