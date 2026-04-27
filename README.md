@@ -31,5 +31,5 @@ You can view the live app here:
 ---
 
 ## **Screenshot**
-![Screenshot](/files/screenshot.png)
+![Screenshot](/assets/screenshot.png)
 
